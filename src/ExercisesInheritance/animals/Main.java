@@ -1,4 +1,4 @@
-package animals;
+package ExercisesInheritance.animals;
 
 import java.util.Scanner;
 

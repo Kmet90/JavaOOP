@@ -1,4 +1,4 @@
-package animals;
+package ExercisesInheritance.animals;
 
 public class Kitten extends Cat{
     private static final String GENDER = "Female";
